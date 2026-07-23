@@ -7,6 +7,7 @@ My program tracks the subjects and the time you spent studying it for the past w
 ## How to run it
 1. Open the notebook in Google Colab
 2. Run all cells from top to bottom
+3. Link to CoLab Notebook --> https://colab.research.google.com/drive/1IGzPFPGgy3NA5EH81SHU414EPssUTpLB?usp=sharing
 
 ## Skills demonstrated
 - Pandas DataFrames
