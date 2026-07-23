@@ -15,6 +15,7 @@ My program tracks the subjects and the time you spent studying it for the past w
 - "For" Loops
 - Functions
 - Lists
+- Strings
 - Groupby Function
 
 ## What it produces
